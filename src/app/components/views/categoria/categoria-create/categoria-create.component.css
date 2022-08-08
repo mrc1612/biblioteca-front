@@ -1,0 +1,29 @@
+form {
+    margin: 2rem auto 0 auto;
+    text-align: center;
+    width: 70%;
+}
+
+.form {
+    width: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.buttons {
+    text-align: start;
+}
+
+button {
+    margin-right: .5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.mat-primary {
+    color: white;
+}
